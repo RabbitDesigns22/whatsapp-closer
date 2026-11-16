@@ -21,7 +21,7 @@ It covers: answer in under 5 minutes, offer a call at the moment of decision, 2-
 ## Install
 
 ```bash
-npx skills add RabbitDesigns22/whatsapp-closer
+npx skills@1.8.1 add https://github.com/RabbitDesigns22/whatsapp-closer/tree/2fdec2240dd7971351ddcd6b03d754f02d815c18
 ```
 
 Or manually: copy `skills/whatsapp-closer/` into `~/.claude/skills/`.
@@ -35,7 +35,7 @@ Or manually: copy `skills/whatsapp-closer/` into `~/.claude/skills/`.
 
 **Reglas comprobadas para cerrar ventas por WhatsApp.** Para armar o mejorar una asistente que contesta a quien escribe desde un anuncio. Cada regla dice si está medida, si es regla oficial de Meta o si es un método de ventas reconocido: contestar en menos de 5 minutos, ofrecer llamada en el momento de decidir, 2-3 preguntas antes del precio, una sola recomendación, cada mensaje termina con dos opciones de día, objeciones con pausa y pregunta, máximo 2-3 seguimientos, siempre una persona disponible. Trae guiones en español (de usted y de tú), lo que nunca hay que hacer y cómo medir si cierra.
 
-Instalar: `npx skills add RabbitDesigns22/whatsapp-closer`
+Instalar: `npx skills@1.8.1 add https://github.com/RabbitDesigns22/whatsapp-closer/tree/2fdec2240dd7971351ddcd6b03d754f02d815c18`
 
 ## More skills from the same setup
 
